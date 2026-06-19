@@ -5,7 +5,7 @@ import Search from "../icons/Search"
 const Searchbar = () => {
     return (
         <div className="flex gap-4 flex-1">
-            <Input />
+            <Input placeholder="Search for Products, Brands and More" />
             <Button>
                 <Search />
             </Button>
