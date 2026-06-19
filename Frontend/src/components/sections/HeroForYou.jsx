@@ -5,19 +5,19 @@ import {
     CarouselNext,
     CarouselPrevious,
 } from "@/components/ui/carousel"
-import one from "../../assets/images/one.jpg"
-import two from "../../assets/images/two.jpg"
-import three from "../../assets/images/three.jpg"
-import four from "../../assets/images/four.jpg"
-import five from "../../assets/images/five.jpg"
-import six from "../../assets/images/six.jpg"
-import seven from "../../assets/images/seven.jpg"
-import eight from "../../assets/images/eight.jpg"
-import nine from "../../assets/images/nine.jpg"
-import ten from "../../assets/images/ten.jpg"
+import one from "../../assets/images/foryou/one.jpg"
+import two from "../../assets/images/foryou/two.jpg"
+import three from "../../assets/images/foryou/three.jpg"
+import four from "../../assets/images/foryou/four.jpg"
+import five from "../../assets/images/foryou/five.jpg"
+import six from "../../assets/images/foryou/six.jpg"
+import seven from "../../assets/images/foryou/seven.jpg"
+import eight from "../../assets/images/foryou/eight.jpg"
+import nine from "../../assets/images/foryou/nine.jpg"
+import ten from "../../assets/images/foryou/ten.jpg"
 
-import banner1 from "../../assets/images/banner1.jpg"
-import banner2 from "../../assets/images/banner2.jpg"
+import banner1 from "../../assets/images/foryou/banner1.jpg"
+import banner2 from "../../assets/images/foryou/banner2.jpg"
 
 const Hero = () => {
     return (

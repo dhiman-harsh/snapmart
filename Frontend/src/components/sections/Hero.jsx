@@ -1,5 +1,6 @@
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 import HeroForYou from "./HeroForYou"
+import HeroFashion from "./HeroFashion"
 
 const Hero = () => {
     return (
@@ -22,6 +23,9 @@ const Hero = () => {
                 </TabsList>
                 <TabsContent value="foryou" className={`w-full p-0 m-0`} >
                     <HeroForYou />
+                </TabsContent>
+                <TabsContent value="fashion" className={`w-full p-0 m-0`} >
+                    <HeroFashion />
                 </TabsContent>
             </Tabs>
         </div>
